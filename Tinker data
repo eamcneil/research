@@ -1,5 +1,3 @@
-relation child
-
 attribute A1_Score {0,1}
 attribute A2_Score {0,1}
 attribute A3_Score {0,1}
@@ -22,7 +20,6 @@ attribute age_desc {'4-11 years'}
 attribute relation {Parent,Self,Relative,'Health care professional',self}
 attribute Class/ASD {NO,YES}
 
-data
 1,1,0,0,1,1,0,1,0,0,6,m,Others,no,no,Jordan,no,5,'4-11 years',Parent,NO
 1,1,0,0,1,1,0,1,0,0,6,m,'Middle Eastern ',no,no,Jordan,no,5,'4-11 years',Parent,NO
 1,1,0,0,0,1,1,1,0,0,6,m,?,no,no,Jordan,yes,5,'4-11 years',?,NO
