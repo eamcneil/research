@@ -93,63 +93,63 @@
 0,0,1,1,1,1,1,1,1,1,5,m,Asian,no,no,India,no,8,'4-11 years',Parent,YES
 0,0,1,1,1,1,1,1,1,1,5,m,Asian,no,no,India,no,8,'4-11 years',Parent,YES
 1,1,1,1,1,1,1,1,1,1,6,m,Latino,no,no,'United States',no,10,'4-11 years',Parent,YES
-1,0,1,0,1,1,1,1,0,1,7,m,Hispanic,no,no,'United States',no,7,'4-11 years',Parent,YES
-1,1,1,1,1,1,0,1,0,1,11,m,White-European,no,no,Sweden,no,8,'4-11 years',Parent,YES
-1,1,1,1,1,0,1,0,1,1,4,m,White-European,no,no,Australia,no,8,'4-11 years',Parent,YES
-1,1,1,0,1,1,1,0,1,1,4,m,White-European,no,yes,'United States',no,8,'4-11 years',Parent,YES
-0,0,1,1,0,0,0,0,0,0,7,m,White-European,no,yes,'United States',no,2,'4-11 years',Parent,NO
-1,1,0,1,0,1,1,0,1,0,11,f,White-European,yes,yes,'United Kingdom',no,6,'4-11 years',Relative,NO
-1,1,1,1,0,1,1,0,0,1,6,f,Asian,no,no,Philippines,no,7,'4-11 years',Parent,YES
-0,0,0,0,0,0,1,0,1,0,9,f,White-European,no,no,'United Kingdom',no,2,'4-11 years',Parent,NO
-0,1,0,1,0,1,0,0,1,1,10,m,Others,no,no,'United States',no,5,'4-11 years',Relative,NO
-0,0,0,0,1,1,1,0,0,1,4,m,Asian,no,yes,Malaysia,no,4,'4-11 years',Parent,NO
-1,1,1,1,1,1,0,1,0,1,4,m,Asian,yes,no,Philippines,no,8,'4-11 years',Parent,YES
-1,1,1,1,1,1,0,0,1,1,10,m,White-European,yes,no,'United Kingdom',no,8,'4-11 years',Parent,YES
-1,0,0,0,1,0,0,0,0,1,4,f,White-European,yes,yes,'United Kingdom',no,3,'4-11 years',Parent,NO
-0,1,0,0,0,1,1,1,0,0,11,m,Asian,no,no,Argentina,no,4,'4-11 years',Parent,NO
-0,0,1,0,1,0,0,0,0,1,7,m,Asian,no,no,Japan,no,3,'4-11 years',Parent,NO
-0,1,1,1,1,0,1,1,0,1,5,m,?,no,no,Syria,no,7,'4-11 years',?,YES
-1,1,0,0,0,0,0,0,0,1,4,f,White-European,no,no,'United States',no,3,'4-11 years',Parent,NO
-0,0,1,1,1,1,0,1,1,1,8,m,White-European,no,no,'United States',no,7,'4-11 years',Parent,YES
-1,1,1,1,1,1,1,1,1,0,4,m,White-European,no,no,Australia,no,9,'4-11 years',Parent,YES
-1,0,1,0,1,1,0,1,0,1,4,m,'South Asian',no,no,India,no,6,'4-11 years',Parent,NO
-1,1,1,1,1,1,1,1,1,1,11,m,Asian,yes,no,India,no,10,'4-11 years',Relative,YES
-1,1,1,1,1,1,1,0,1,1,10,f,Asian,no,no,'United States',no,9,'4-11 years',Parent,YES
-1,1,0,1,0,1,0,0,1,1,6,f,White-European,no,no,'United States',no,6,'4-11 years',Parent,NO
-0,0,0,1,1,1,1,1,1,0,4,m,Asian,no,no,Bangladesh,no,6,'4-11 years',Relative,NO
-0,1,1,0,1,0,0,0,0,1,4,m,Asian,no,yes,Bangladesh,no,4,'4-11 years',Parent,NO
-0,1,1,1,0,1,0,1,1,1,4,m,Asian,no,no,Bangladesh,no,7,'4-11 years',Relative,YES
-0,0,1,1,0,0,1,1,1,0,10,m,White-European,no,no,'United States',no,5,'4-11 years',Parent,NO
-1,1,1,1,1,1,1,1,1,1,7,m,White-European,no,no,'United Kingdom',no,10,'4-11 years',Relative,YES
-0,1,1,0,0,1,1,1,0,0,4,m,?,yes,no,Qatar,no,5,'4-11 years',?,NO
-1,1,1,0,0,1,1,1,1,1,6,f,White-European,yes,no,Ireland,no,8,'4-11 years',Parent,YES
-0,1,1,0,1,1,1,1,1,1,5,m,Asian,no,no,India,no,8,'4-11 years',Parent,YES
-1,1,1,1,0,1,0,1,0,1,?,m,?,yes,no,Jordan,no,7,'4-11 years',?,YES
-0,0,1,0,1,1,1,1,1,1,4,f,Asian,yes,no,'United Kingdom',no,7,'4-11 years',Parent,YES
-1,0,1,0,1,1,1,1,0,0,9,m,Asian,no,no,India,yes,6,'4-11 years',Parent,NO
-1,0,1,1,0,1,1,1,0,1,4,f,White-European,yes,no,'United States',no,7,'4-11 years',Parent,YES
-1,1,1,1,1,1,1,0,1,1,10,m,White-European,no,no,'New Zealand',yes,9,'4-11 years',Parent,YES
-1,1,0,0,0,0,1,0,0,1,9,m,White-European,no,no,'New Zealand',no,4,'4-11 years',Parent,NO
-0,1,1,1,1,1,0,0,0,1,5,m,White-European,yes,yes,'United Kingdom',no,6,'4-11 years',Parent,NO
-1,1,1,0,0,0,0,0,1,1,4,f,Black,no,no,Canada,no,5,'4-11 years',Parent,NO
-1,1,1,1,1,1,0,1,1,1,4,m,White-European,no,yes,'United Kingdom',no,9,'4-11 years',Parent,YES
-0,1,1,1,1,0,0,0,1,0,6,m,White-European,no,no,Romania,no,5,'4-11 years',Parent,NO
-1,1,1,0,1,0,1,0,1,1,4,f,White-European,yes,no,'United Kingdom',no,7,'4-11 years',Parent,YES
-0,0,0,0,0,0,0,0,0,0,5,f,Hispanic,no,no,'United States',no,0,'4-11 years',Parent,NO
-0,1,1,0,1,1,1,1,0,0,?,m,?,yes,no,Qatar,yes,6,'4-11 years',?,NO
-1,1,1,1,1,1,1,1,1,1,9,m,White-European,yes,yes,'United Kingdom',no,10,'4-11 years',Parent,YES
-1,0,1,1,1,0,1,1,1,1,7,f,White-European,no,no,Australia,no,8,'4-11 years',Parent,YES
-0,1,1,0,0,1,1,1,0,1,10,f,White-European,no,no,Netherlands,no,6,'4-11 years',Parent,NO
-1,0,1,1,1,1,0,1,0,1,4,m,'South Asian',no,no,India,no,7,'4-11 years',Parent,YES
-1,0,1,1,0,1,1,1,0,1,4,m,Asian,no,no,India,no,7,'4-11 years',Relative,YES
-1,1,0,1,1,1,1,0,0,0,7,f,White-European,no,no,'United Kingdom',no,6,'4-11 years',Parent,NO
-1,1,1,1,1,1,1,0,1,1,4,m,Black,yes,no,'United States',no,9,'4-11 years',Parent,YES
-0,1,1,0,1,0,1,0,0,1,4,m,?,yes,no,Lebanon,no,5,'4-11 years',?,NO
-1,1,1,1,1,1,1,0,1,1,10,m,White-European,no,no,Germany,no,9,'4-11 years','Health care professional',YES
-0,0,1,0,1,1,0,1,1,1,4,m,Asian,no,no,India,no,6,'4-11 years',Parent,NO
-0,0,0,0,1,1,1,0,0,0,4,m,?,no,no,Latvia,yes,3,'4-11 years',?,NO
-1,1,1,1,1,1,0,0,0,1,4,m,'South Asian',no,yes,'Saudi Arabia',no,7,'4-11 years',Parent,YES
-1,0,1,0,1,1,0,1,1,1,4,m,Black,no,yes,'United States',no,7,'4-11 years',Parent,YES
+1,0,1,0,1,1,1,1,0,1,7,m
+1,1,1,1,1,1,0,1,0,1,11,m
+1,1,1,1,1,0,1,0,1,1,4,m 
+1,1,1,0,1,1,1,0,1,1,4,m
+0,0,1,1,0,0,0,0,0,0,7,m
+1,1,0,1,0,1,1,0,1,0,11,f
+1,1,1,1,0,1,1,0,0,1,6,f
+0,0,0,0,0,0,1,0,1,0,9,f
+0,1,0,1,0,1,0,0,1,1,10
+0,0,0,0,1,1,1,0,0,1,4,m
+1,1,1,1,1,1,0,1,0,1,4,m
+1,1,1,1,1,1,0,0,1,1,10,m
+1,0,0,0,1,0,0,0,0,1,4,f
+0,1,0,0,0,1,1,1,0,0,11,m
+0,0,1,0,1,0,0,0,0,1,7,m
+0,1,1,1,1,0,1,1,0,1,5,m
+1,1,0,0,0,0,0,0,0,1,4,f
+0,0,1,1,1,1,0,1,1,1,8,m
+1,1,1,1,1,1,1,1,1,0,4,m
+1,0,1,0,1,1,0,1,0,1,4,m
+1,1,1,1,1,1,1,1,1,1,11,m
+1,1,1,1,1,1,1,0,1,1,10,f
+1,1,0,1,0,1,0,0,1,1,6,f
+0,0,0,1,1,1,1,1,1,0,4,m
+0,1,1,0,1,0,0,0,0,1,4,m
+0,1,1,1,0,1,0,1,1,1,4,m
+0,0,1,1,0,0,1,1,1,0,10,m
+1,1,1,1,1,1,1,1,1,1,7,m
+0,1,1,0,0,1,1,1,0,0,4,m
+1,1,1,0,0,1,1,1,1,1,6,f
+0,1,1,0,1,1,1,1,1,1,5,m
+1,1,1,1,0,1,0,1,0,1,?,m
+0,0,1,0,1,1,1,1,1,1,4,f
+1,0,1,0,1,1,1,1,0,0,9,m
+1,0,1,1,0,1,1,1,0,1,4,f
+1,1,1,1,1,1,1,0,1,1,10,m
+1,1,0,0,0,0,1,0,0,1,9,m
+0,1,1,1,1,1,0,0,0,1,5,m
+1,1,1,0,0,0,0,0,1,1,4,f
+1,1,1,1,1,1,0,1,1,1,4,m
+0,1,1,1,1,0,0,0,1,0,6,m
+1,1,1,0,1,0,1,0,1,1,4,f
+0,0,0,0,0,0,0,0,0,0,5,f
+0,1,1,0,1,1,1,1,0,0,?,m
+1,1,1,1,1,1,1,1,1,1,9,m
+1,0,1,1,1,0,1,1,1,1,7,f
+0,1,1,0,0,1,1,1,0,1,10,f
+1,0,1,1,1,1,0,1,0,1,4,m
+1,0,1,1,0,1,1,1,0,1,4,m
+1,1,0,1,1,1,1,0,0,0,7,f
+1,1,1,1,1,1,1,0,1,1,4,m
+0,1,1,0,1,0,1,0,0,1,4,m
+1,1,1,1,1,1,1,0,1,1,10,m
+0,0,1,0,1,1,0,1,1,1,4,m
+0,0,0,0,1,1,1,0,0,0,4,m
+1,1,1,1,1,1,0,0,0,1,4,m
+1,0,1,0,1,1,0,1,1,1,4,m
 0,1,1,0,0,0,1,1,1,1,7,m
 1,1,1,1,1,1,1,0,1,1,4,m
 1,1,1,1,1,0,1,0,1,1,5,f
